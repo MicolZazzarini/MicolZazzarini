@@ -2,6 +2,10 @@
 
 **Build, innovate, experiment**—this is what excites me about **Computer Science**. With a focus on **Data and Artificial Intelligence**, I am exploring the world of technology through my studies in **Computer Engineering**.
 
+📄 Check out my publication: [[Multimodal AI-enhanced ship detection for mapping fishing vessels and informing on suspicious activities](https://www.sciencedirect.com/science/article/pii/S0167865525000649?via%3Dihub)]  
+
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/micol-zazzarini-5a3658285/)
+
 ## What I know
 <p align="left">
 <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="40" height="40"/>
