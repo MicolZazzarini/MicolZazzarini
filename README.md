@@ -30,7 +30,7 @@ I also absolutely love **Hackathons** (Who doesn't love **pizza**, **Red Bull**,
 
 Right now, I'm diving deep into **Data** and **Machine Learning**, aiming to build smart, impactful solutions.
 
-> 🎺 Here's my favorite pre-exam pump-up song: [**Feeling Good** by **Nina Simone**](https://youtube.com/watch?v=BNMKGYiJpvg)
+> 🎺 Here's my favorite pre-exam pump-up song: [**Don't Stop Me Now** by **Queen**](https://www.youtube.com/watch?v=HgzGwKwLmgM)
 
 </div>
 <br></details>
