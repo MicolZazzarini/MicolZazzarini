@@ -40,13 +40,14 @@ Right now, I'm diving deep into **Data** and **Machine Learning**, aiming to bui
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MicolZazzarini&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="180" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MicolZazzarini&show_icons=true&theme=dark&count_private=true&cache_seconds=60" alt="GitHub Stats" height="180" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicolZazzarini&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=dark&bg_color=00000000&hide_title=true&count_private=true" alt="Top Languages" height="180" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicolZazzarini&layout=compact&langs_count=10&theme=dark&bg_color=00000000&hide_title=true&count_private=truecache_seconds=60" alt="Top Languages" height="180" />
     </td>
   </tr>
 </table>
+
 
 <p align="left" style="margin-top: 20px;">
   <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="40" height="40"/>
